@@ -1,1 +1,1 @@
-Hello this is file c
+Hello this is file c, but i think it works fine without git ignore
